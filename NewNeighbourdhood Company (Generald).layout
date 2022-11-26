@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="fnCombat.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11596" topLine="370" />
+		</Cursor>
+	</File>
+	<File name="fnUser.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7361" topLine="165" />
+		</Cursor>
+	</File>
+	<File name="fnScreen.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22956" topLine="422" />
+		</Cursor>
+		<Folding>
+			<Collapse line="123" />
+			<Collapse line="133" />
+			<Collapse line="185" />
+			<Collapse line="195" />
+			<Collapse line="208" />
+			<Collapse line="213" />
+			<Collapse line="221" />
+			<Collapse line="235" />
+			<Collapse line="243" />
+			<Collapse line="253" />
+			<Collapse line="260" />
+			<Collapse line="269" />
+			<Collapse line="294" />
+			<Collapse line="304" />
+			<Collapse line="309" />
+			<Collapse line="317" />
+			<Collapse line="386" />
+			<Collapse line="411" />
+			<Collapse line="443" />
+			<Collapse line="460" />
+			<Collapse line="473" />
+		</Folding>
+	</File>
+	<File name="fnUser.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3870" topLine="117" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="50963" topLine="1070" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1656076526 source:d:\traherm\utn\1° cuatri\programacion\2°parcial\tp-final\newneighbourdhood company (generald)\fnscreen.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	<winuser.h>
+	<locale.h>
+	"fnUser.h"
+	"gotoxy.h"
+
+1655997692 d:\traherm\utn\1° cuatri\programacion\2°parcial\tp-final\newneighbourdhood company (generald)\fnuser.h
+
+1491356696 d:\traherm\utn\1° cuatri\programacion\2°parcial\tp-final\newneighbourdhood company (generald)\gotoxy.h
+
+1655936686 source:d:\traherm\utn\1° cuatri\programacion\2°parcial\tp-final\newneighbourdhood company (generald)\fnuser.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"fnUser.h"
+
+1491357250 source:d:\traherm\utn\1° cuatri\programacion\2°parcial\tp-final\newneighbourdhood company (generald)\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655999724 source:d:\traherm\utn\1° cuatri\programacion\2°parcial\tp-final\newneighbourdhood company (generald)\fncombat.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"fnUser.h"
+
+1656256552 source:d:\traherm\utn\1° cuatri\programacion\2°parcial\tp-final\newneighbourdhood company (generald)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"fnUser.h"
+	"gotoxy.h"
+
